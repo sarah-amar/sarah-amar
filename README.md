@@ -1,4 +1,4 @@
-# Hi there, I'm Sarah Amar! 👋
+# Hi there, I'm Sarah ! 👋
 
 Crafting delightful digital experiences with code and creativity | Frontend Developer | UI/UX Enthusiast
 
