@@ -9,7 +9,7 @@ Crafting delightful digital experiences with code and creativity | Frontend Deve
 - Cat lover 🐱 coding from the sunny French Riviera
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,node,svelte,tailwind,storybook,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,svelte,tailwindcss,storybook,figma)](https://skillicons.dev)
 
 ## 🌱 Current Focus
 - Mastering web animations for engaging user experiences
