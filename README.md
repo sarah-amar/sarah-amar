@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sarah Amar! 👋
 
-<!--
-**sarah-amar/sarah-amar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting delightful digital experiences with code and creativity | Frontend Developer | UI/UX Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Frontend Developer passionate about creating beautiful, user-centric applications
+- Design enthusiast with a keen eye for UI/UX principles
+- Love turning complex problems into simple, elegant solutions
+- Cat lover 🐱 coding from the sunny French Riviera
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,node,svelte,tailwind,storybook,figma)](https://skillicons.dev)
+
+## 🌱 Current Focus
+- Mastering web animations for engaging user experiences
+- Deepening UI/UX expertise through professional certifications
+- Advanced React patterns with Redux implementation
+- SEO optimization techniques
+- Building modern interfaces with Tailwind CSS
+- Server-side development with AdonisJS
+
+## 🔗 Connect With Me
+- [Portfolio](https://studio.sarah-amar.com) - Explore my work
+- [LinkedIn](https://twitter.com/introvertedbot) - Let's connect professionally
+
+💫 Looking to collaborate? Feel free to reach out!
